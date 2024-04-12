@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 664 699.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Avenir-Medium, Avenir;
+        font-size: 15px;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7, .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2, .cls-10 {
+        fill: #333;
+      }
+
+      .cls-11 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-12 {
+        fill: #231f20;
+      }
+
+      .cls-12, .cls-13 {
+        font-family: Avenir-Black, Avenir;
+        font-size: 18px;
+        font-weight: 800;
+      }
+
+      .cls-14 {
+        fill: #000;
+        font-family: Helvetica, Helvetica;
+        font-size: 12px;
+        isolation: isolate;
+      }
+
+      .cls-15 {
+        fill: #86e29b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect id="undefined_-_Value" data-name="undefined - Value" class="cls-15" x="315.2" y="-65.66" width="44.23" height="514.11" transform="translate(145.57 528.51) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-2" data-name="undefined - Value" class="cls-15" x="101.78" y="207.25" width="44.23" height="87.4" transform="translate(-127.18 374.58) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-3" data-name="undefined - Value" class="cls-15" x="89.77" y="278.98" width="44.23" height="63.5" transform="translate(-198.96 422.28) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-4" data-name="undefined - Value" class="cls-15" x="70.76" y="417.41" width="44.23" height="25.73" transform="translate(-337.5 522.69) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-5" data-name="undefined - Value" class="cls-15" x="65.09" y="482.79" width="44.23" height="14.52" transform="translate(-402.94 576.74) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-6" data-name="undefined - Value" class="cls-15" x="64.07" y="543.54" width="44.23" height="12.6" transform="translate(-463.75 635.43) rotate(-89.94)"/>
+  <polyline id="undefined_-_Value-7" data-name="undefined - Value" class="cls-15" points="79.79 631.73 79.84 587.5 86.93 587.51 86.88 631.74"/>
+  <rect id="undefined_-_Value-8" data-name="undefined - Value" class="cls-15" x="76.4" y="352.05" width="44.23" height="36.89" transform="translate(-272.08 468.62) rotate(-89.94)"/>
+  <path class="cls-11" d="M80.3,155.37l-.52,490"/>
+  <g>
+    <line class="cls-11" x1="80.27" y1="191.12" x2="74.27" y2="191.11"/>
+    <text class="cls-14" transform="translate(10.37 195.72) rotate(.06)"><tspan class="cls-4" x="0" y="0">W</tspan><tspan x="10.89" y="0">ashington</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="80.2" y1="250.9" x2="74.2" y2="250.9"/>
+    <text class="cls-14" transform="translate(25.27 255.41) rotate(.06)"><tspan x="0" y="0">Michigan</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="80.14" y1="310.69" x2="74.14" y2="310.68"/>
+    <text class="cls-14" transform="translate(22.6 315.08) rotate(.06)"><tspan x="0" y="0">New</tspan><tspan class="cls-6" x="24.01" y="0"> </tspan><tspan class="cls-5" x="27.13" y="0">Y</tspan><tspan x="34.03" y="0">ork</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="80.07" y1="370.48" x2="74.07" y2="370.47"/>
+    <text class="cls-14" transform="translate(43.29 374.77) rotate(.06)"><tspan x="0" y="0">Other</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="80.01" y1="430.26" x2="74.01" y2="430.25"/>
+    <text class="cls-14" transform="translate(1.92 434.43) rotate(.06)"><tspan x="0" y="0">Pennsylvania</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="79.95" y1="490.05" x2="73.95" y2="490.04"/>
+    <text class="cls-14" transform="translate(22.61 494.12) rotate(.06)"><tspan x="0" y="0">California</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="79.88" y1="549.83" x2="73.88" y2="549.83"/>
+    <text class="cls-14" transform="translate(33.49 553.8) rotate(.06)"><tspan class="cls-6" x="0" y="0">V</tspan><tspan x="7.79" y="0">irginia</tspan></text>
+  </g>
+  <g>
+    <line class="cls-11" x1="79.82" y1="609.62" x2="73.82" y2="609.61"/>
+    <text class="cls-14" transform="translate(33.27 613.48) rotate(.06)"><tspan x="0" y="0">Oregon</tspan></text>
+  </g>
+  <g id="yAxis">
+    <path class="cls-11" d="M80.3,155.37l560,.6"/>
+    <g>
+      <line class="cls-11" x1="80.3" y1="155.37" x2="80.31" y2="149.37"/>
+      <text class="cls-14" transform="translate(80.56 134.81) rotate(-180)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <line class="cls-11" x1="131.21" y1="155.42" x2="131.22" y2="149.42"/>
+    <line class="cls-11" x1="182.12" y1="155.48" x2="182.13" y2="149.48"/>
+    <line class="cls-11" x1="233.03" y1="155.53" x2="233.04" y2="149.53"/>
+    <line class="cls-11" x1="283.94" y1="155.59" x2="283.95" y2="149.59"/>
+    <line class="cls-11" x1="334.85" y1="155.64" x2="334.86" y2="149.64"/>
+    <line class="cls-11" x1="385.76" y1="155.7" x2="385.76" y2="149.7"/>
+    <line class="cls-11" x1="436.67" y1="155.75" x2="436.67" y2="149.75"/>
+    <line class="cls-11" x1="487.58" y1="155.8" x2="487.58" y2="149.8"/>
+    <line class="cls-11" x1="538.49" y1="155.86" x2="538.49" y2="149.86"/>
+    <line class="cls-11" x1="589.39" y1="155.91" x2="589.4" y2="149.91"/>
+    <line class="cls-11" x1="640.3" y1="155.97" x2="640.31" y2="149.97"/>
+  </g>
+  <text class="cls-14" transform="translate(119.94 142.56)"><tspan x="0" y="0">$2M</tspan></text>
+  <text class="cls-14" transform="translate(170.89 142.56)"><tspan x="0" y="0">$4M</tspan></text>
+  <text class="cls-14" transform="translate(221.84 142.56)"><tspan x="0" y="0">$6M</tspan></text>
+  <text class="cls-14" transform="translate(272.8 142.56)"><tspan x="0" y="0">$8M</tspan></text>
+  <text class="cls-14" transform="translate(324.58 142.56)"><tspan x="0" y="0">$1B</tspan></text>
+  <text class="cls-14" transform="translate(371.36 142.56)"><tspan x="0" y="0">$1.2B</tspan></text>
+  <text class="cls-14" transform="translate(422.31 142.56)"><tspan x="0" y="0">$1.4B</tspan></text>
+  <text class="cls-14" transform="translate(473.27 142.56)"><tspan x="0" y="0">$1.6B</tspan></text>
+  <text class="cls-14" transform="translate(524.22 142.56)"><tspan x="0" y="0">$1.8B</tspan></text>
+  <text class="cls-14" transform="translate(626.12 142.56)"><tspan x="0" y="0">$2.2B</tspan></text>
+  <text class="cls-14" transform="translate(579.34 142.56)"><tspan x="0" y="0">$2B</tspan></text>
+  <text class="cls-12" transform="translate(79.82 22.63)"><tspan x="0" y="0">U.S. Apple P</tspan><tspan class="cls-9" x="107.35" y="0">r</tspan><tspan x="114.35" y="0" xml:space="preserve">oduction  </tspan></text>
+  <text class="cls-10" transform="translate(79.82 64.52)"><tspan class="cls-1"><tspan class="cls-8" x="0" y="0">W</tspan><tspan x="13.72" y="0">ashington state is the top apple p</tspan><tspan class="cls-7" x="242.65" y="0">r</tspan><tspan x="247.93" y="0">oducer in the U.S. with their c</tspan><tspan class="cls-7" x="449.38" y="0">r</tspan><tspan x="454.66" y="0">ops valued</tspan></tspan><tspan class="cls-1" x="0" y="20">at mo</tspan><tspan class="cls-3" x="39.19" y="20">r</tspan><tspan class="cls-1" x="44.47" y="20">e than $2B for the 2022/23 season.</tspan><tspan class="cls-13" x="282.4" y="20"> </tspan></text>
+  <text class="cls-2" transform="translate(79.76 666.04)"><tspan x="0" y="0">Sou</tspan><tspan class="cls-7" x="25.59" y="0">r</tspan><tspan x="30.87" y="0">ce: USApple and U.S. Department of Agricultu</tspan><tspan class="cls-7" x="346.24" y="0">r</tspan><tspan x="351.52" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(80 685.22)"><tspan x="0" y="0">By Diana Escamilla Fuentes</tspan></text>
+</svg>

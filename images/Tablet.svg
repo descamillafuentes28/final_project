@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 700">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Avenir-Medium, Avenir;
+        font-size: 15px;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8, .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2, .cls-12 {
+        fill: #333;
+      }
+
+      .cls-13 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-14 {
+        font-size: 9.94px;
+      }
+
+      .cls-14, .cls-15 {
+        fill: #000;
+        font-family: Helvetica, Helvetica;
+        isolation: isolate;
+      }
+
+      .cls-15 {
+        font-size: 9.94px;
+      }
+
+      .cls-16 {
+        fill: #231f20;
+      }
+
+      .cls-16, .cls-17 {
+        font-family: Avenir-Black, Avenir;
+        font-size: 18px;
+        font-weight: 800;
+      }
+
+      .cls-18 {
+        fill: #86e29b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect id="undefined_-_Value" data-name="undefined - Value" class="cls-18" x="261.95" y="-27.95" width="36.64" height="425.9" transform="translate(94.98 465.07) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-2" data-name="undefined - Value" class="cls-18" x="85.15" y="198.13" width="36.64" height="72.4" transform="translate(-130.97 337.55) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-3" data-name="undefined - Value" class="cls-18" x="75.2" y="257.55" width="36.64" height="52.6" transform="translate(-190.43 377.06) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-4" data-name="undefined - Value" class="cls-18" x="59.45" y="372.23" width="36.64" height="21.31" transform="translate(-305.21 460.25) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-5" data-name="undefined - Value" class="cls-18" x="54.75" y="426.4" width="36.64" height="12.03" transform="translate(-359.42 505.02) rotate(-89.94)"/>
+  <rect id="undefined_-_Value-6" data-name="undefined - Value" class="cls-18" x="53.9" y="476.72" width="36.64" height="10.44" transform="translate(-409.79 553.65) rotate(-89.94)"/>
+  <polyline id="undefined_-_Value-7" data-name="undefined - Value" class="cls-18" points="66.93 549.78 66.97 513.14 72.84 513.15 72.8 549.79"/>
+  <rect id="undefined_-_Value-8" data-name="undefined - Value" class="cls-18" x="64.12" y="318.09" width="36.64" height="30.56" transform="translate(-251.01 415.45) rotate(-89.94)"/>
+  <path class="cls-13" d="M67.35,155.15l-.43,405.93"/>
+  <g>
+    <line class="cls-13" x1="67.32" y1="184.77" x2="62.35" y2="184.76"/>
+    <text class="cls-14" transform="translate(9.43 188.59) rotate(.06)"><tspan class="cls-4" x="0" y="0">W</tspan><tspan class="cls-6" x="9.02" y="0">ashington</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67.27" y1="234.29" x2="62.3" y2="234.29"/>
+    <text class="cls-14" transform="translate(21.78 238.03) rotate(.06)"><tspan x="0" y="0">Michigan</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67.22" y1="283.82" x2="62.25" y2="283.82"/>
+    <text class="cls-14" transform="translate(19.56 287.47) rotate(.06)"><tspan x="0" y="0">New</tspan><tspan class="cls-7" x="19.89" y="0"> </tspan><tspan class="cls-5" x="22.47" y="0">Y</tspan><tspan x="28.19" y="0">ork</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67.16" y1="333.35" x2="62.19" y2="333.34"/>
+    <text class="cls-14" transform="translate(36.7 336.92) rotate(.06)"><tspan x="0" y="0">Other</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67.11" y1="382.88" x2="62.14" y2="382.87"/>
+    <text class="cls-14" transform="translate(2.43 386.34) rotate(.06)"><tspan x="0" y="0">Pennsylvania</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67.06" y1="432.41" x2="62.09" y2="432.4"/>
+    <text class="cls-14" transform="translate(19.57 435.79) rotate(.06)"><tspan x="0" y="0">California</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="67" y1="481.93" x2="62.03" y2="481.93"/>
+    <text class="cls-14" transform="translate(28.58 485.23) rotate(.06)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan class="cls-9" x="6.46" y="0">irginia</tspan></text>
+  </g>
+  <g>
+    <line class="cls-13" x1="66.95" y1="531.46" x2="61.98" y2="531.46"/>
+    <text class="cls-14" transform="translate(28.4 534.67) rotate(.06)"><tspan x="0" y="0">Oregon</tspan></text>
+  </g>
+  <g id="yAxis">
+    <path class="cls-13" d="M67.35,155.15l463.91.5"/>
+    <g>
+      <line class="cls-13" x1="67.35" y1="155.15" x2="67.36" y2="150.18"/>
+      <text class="cls-15" transform="translate(67.57 138.12) rotate(-180)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <line class="cls-13" x1="109.53" y1="155.2" x2="109.53" y2="150.23"/>
+    <line class="cls-13" x1="151.7" y1="155.24" x2="151.71" y2="150.27"/>
+    <line class="cls-13" x1="193.88" y1="155.29" x2="193.88" y2="150.32"/>
+    <line class="cls-13" x1="236.05" y1="155.33" x2="236.06" y2="150.36"/>
+    <line class="cls-13" x1="278.22" y1="155.38" x2="278.23" y2="150.41"/>
+    <line class="cls-13" x1="320.4" y1="155.42" x2="320.4" y2="150.45"/>
+    <line class="cls-13" x1="362.57" y1="155.47" x2="362.58" y2="150.5"/>
+    <line class="cls-13" x1="404.75" y1="155.51" x2="404.75" y2="150.54"/>
+    <line class="cls-13" x1="446.92" y1="155.56" x2="446.93" y2="150.59"/>
+    <line class="cls-13" x1="489.09" y1="155.6" x2="489.1" y2="150.63"/>
+    <line class="cls-13" x1="531.27" y1="155.65" x2="531.27" y2="150.68"/>
+  </g>
+  <text class="cls-15" transform="translate(100.19 144.54)"><tspan x="0" y="0">$2M</tspan></text>
+  <text class="cls-15" transform="translate(142.4 144.54)"><tspan x="0" y="0">$4M</tspan></text>
+  <text class="cls-15" transform="translate(184.61 144.54)"><tspan x="0" y="0">$6M</tspan></text>
+  <text class="cls-15" transform="translate(226.82 144.54)"><tspan x="0" y="0">$8M</tspan></text>
+  <text class="cls-15" transform="translate(269.72 144.54)"><tspan x="0" y="0">$1B</tspan></text>
+  <text class="cls-15" transform="translate(308.47 144.54)"><tspan x="0" y="0">$1.2B</tspan></text>
+  <text class="cls-15" transform="translate(350.68 144.54)"><tspan x="0" y="0">$1.4B</tspan></text>
+  <text class="cls-15" transform="translate(392.89 144.54)"><tspan x="0" y="0">$1.6B</tspan></text>
+  <text class="cls-15" transform="translate(435.1 144.54)"><tspan x="0" y="0">$1.8B</tspan></text>
+  <text class="cls-15" transform="translate(519.52 144.54)"><tspan x="0" y="0">$2.2B</tspan></text>
+  <text class="cls-15" transform="translate(480.77 144.54)"><tspan x="0" y="0">$2B</tspan></text>
+  <text class="cls-16" transform="translate(77.32 21.63)"><tspan x="0" y="0">U.S. Apple P</tspan><tspan class="cls-11" x="107.35" y="0">r</tspan><tspan x="114.35" y="0" xml:space="preserve">oduction  </tspan></text>
+  <text class="cls-12" transform="translate(77.32 63.52)"><tspan class="cls-1"><tspan class="cls-10" x="0" y="0">W</tspan><tspan x="13.72" y="0">ashington state is the top apple p</tspan><tspan class="cls-8" x="242.65" y="0">r</tspan><tspan x="247.93" y="0">oducer in the U.S. with their </tspan></tspan><tspan class="cls-1" x="0" y="20">c</tspan><tspan class="cls-3" x="7.23" y="20">r</tspan><tspan class="cls-1" x="12.51" y="20">ops valued at mo</tspan><tspan class="cls-3" x="129.51" y="20">r</tspan><tspan class="cls-1" x="134.79" y="20">e than $2B for the 2022/23 season.</tspan><tspan class="cls-17" x="372.72" y="20"> </tspan></text>
+  <text class="cls-2" transform="translate(67.26 603.04)"><tspan x="0" y="0">Sou</tspan><tspan class="cls-8" x="25.59" y="0">r</tspan><tspan x="30.87" y="0">ce: USApple and U.S. Department of Agricultu</tspan><tspan class="cls-8" x="346.24" y="0">r</tspan><tspan x="351.52" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(67.5 622.22)"><tspan x="0" y="0">By Diana Escamilla Fuentes</tspan></text>
+</svg>
